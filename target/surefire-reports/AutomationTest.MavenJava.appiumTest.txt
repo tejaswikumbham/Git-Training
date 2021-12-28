@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: AutomationTest.MavenJava.appiumTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.523 s - in AutomationTest.MavenJava.appiumTest

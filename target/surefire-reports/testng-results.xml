@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+      <class name="AutomationTest.MavenJava.seleniumTest">
+        <test-method status="PASS" signature="browsertest()[pri:0, instance:AutomationTest.MavenJava.seleniumTest@48503868]" name="browsertest" duration-ms="7" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsertest -->
+        <test-method status="PASS" signature="uitest()[pri:0, instance:AutomationTest.MavenJava.seleniumTest@48503868]" name="uitest" duration-ms="1" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uitest -->
+      </class> <!-- AutomationTest.MavenJava.seleniumTest -->
+      <class name="AutomationTest.MavenJava.restapiTest">
+        <test-method status="PASS" signature="afterjira()[pri:0, instance:AutomationTest.MavenJava.restapiTest@3b088d51]" name="afterjira" duration-ms="1" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterjira -->
+        <test-method status="PASS" signature="twitterlogin()[pri:0, instance:AutomationTest.MavenJava.restapiTest@3b088d51]" name="twitterlogin" duration-ms="5" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterlogin -->
+      </class> <!-- AutomationTest.MavenJava.restapiTest -->
+      <class name="AutomationTest.MavenJava.appiumTest">
+        <test-method status="PASS" signature="Androidtest()[pri:0, instance:AutomationTest.MavenJava.appiumTest@53f65459]" name="Androidtest" duration-ms="0" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Androidtest -->
+        <test-method status="PASS" signature="iostc()[pri:0, instance:AutomationTest.MavenJava.appiumTest@53f65459]" name="iostc" duration-ms="1" started-at="2021-12-08T01:00:16 IST" finished-at="2021-12-08T01:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iostc -->
+      </class> <!-- AutomationTest.MavenJava.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
